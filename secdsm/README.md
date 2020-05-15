@@ -1,7 +1,11 @@
-SecDSM Mini-CFT
+[SecDSM](https://www.secdsm.org) Mini-CFT
+
 
 ### Project: AlienFS - 2020/05
 TL;DR Description: Find a flag in an attached file
+
+#### Link
+[AlienFS](https://minictf.secdsm.org/may_alien/) Note: This link may break at anytime
 
 #### Solution code
 [alien_fs.py](alien_fs.py)
